@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tom's Yard Screenprint]]></title>
+        <description><![CDATA[Tom's Yard Screenprint]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 11:34:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Preparing prints for Morvah Exhibition - 23rd April 2016]]></title>
+            <description><![CDATA[<article><h1>Preparing prints for Morvah Exhibition - 23rd April 2016</h1><p>Preparing prints for Morvah exhibition - 23rd April 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc7d7041eb37b36ea64a3a297134a2d2fe97c2c7.jpg"></article>]]></description>
+            <link>undefinedpreparing-prints-for-morvah-exhibition-23rd-april-2016/index.html</link>
+            <guid isPermaLink="false">99ae5ad1-d054-4313-a3dd-89973950a7ce</guid>
+            <pubDate>Mon, 07 Mar 2016 11:34:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
