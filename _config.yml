@@ -1,0 +1,28 @@
+name: "Tom's Yard Screenprint"
+favicon: null
+layout_spectrum: 0.7469155611470342
+typography_spectrum: 0.24980949447490275
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8335514031350613
+  lightness: 0.3802473433315754
+  saturation: 0.24400010891258717
+  rhythmicContrast: 0.4994212561286986
+purpose: []
