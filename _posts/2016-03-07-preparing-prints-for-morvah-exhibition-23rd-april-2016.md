@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Preparing prints for Morvah exhibition - 23rd April 2016
-datePublished: '2016-03-20T11:46:56.136Z'
-dateModified: '2016-03-20T11:46:19.708Z'
+description: Prints for Morvah exhibition - 23rd April 2016
+datePublished: '2016-03-24T08:50:53.836Z'
+dateModified: '2016-03-24T08:50:48.878Z'
 title: Preparing prints for Morvah Exhibition - 23rd April 2016
 author: []
 sourcePath: _posts/2016-03-07-preparing-prints-for-morvah-exhibition-23rd-april-2016.md
@@ -24,4 +24,4 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc7eb5a5-f1da-4b41-a68e-ac7567794e32.jpg)
 
-Prints for Morvah exhibition - 23rd April 2016
+Prints for Morvah exhibition - 24th April - 6th May 2016
