@@ -1,29 +1,59 @@
-name: Tom's Yard Screenprint
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.24980949447490275
-title: Tom's Yard now at Higher Bussow Farm Studios
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.8885133535229591
 color:
   brandColors:
-    - '#ffffff'
-    - '#09a6e9'
-    - '#6f423f'
-    - '#175a51'
-    - '#c9c085'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+    - '#B4AF91'
+    - '#787746'
+    - '#40411E'
+    - '#32331D'
+    - '#C03000'
+  brandStrength: 0.30515188474097465
+  lightness: 0.8134469360794577
+  saturation: 0.9977119487784987
+  rhythmicContrast: 0.8466618341952562
+opengraph: {}
+layout_spectrum: 0.25164413349334114
+analytics: {}
+name: Tom's Yard Screenprint
+cta: {}
+navigation:
+  - name: Workshops
+    id: af5baa17-a63d-4635-8899-051cdd0b6cb0
+    type: content
+title: Tom's Yard Screenprint
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/072ad6d7c795ffa91cf2fa541df6c2bb99f59902.jpg">
+    src: >-
+      https://s3-us-west-2.amazonaws.com/the-grid-img/p/072ad6d7c795ffa91cf2fa541df6c2bb99f59902.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://s3-us-west-2.amazonaws.com'
+        name: .s3-us-west-2.amazonaws.com
+        favicon: null
+        domain: s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: '@ Higher Bussow Farm Studios'
+purpose:
+  - type: contact
+    label: Email
+    url: 'mailto:no2tomsyard@yahoo.co.uk'
+  - type: contact
+    label: Cell  +4407542692639
+    url: 'tel:+4407542692639'
+github: true
+author:
+  name: Graham Pullen
+  email: no2tomsyard@yahoo.co.uk
