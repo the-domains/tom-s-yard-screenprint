@@ -19,6 +19,9 @@ purpose:
   - type: contact
     label: Cell  +4407542692639
     url: 'tel:+4407542692639'
+  - type: contact
+    label: no2tomsyard@yahoo.co.uk
+    url: 'mailto:no2tomsyard@yahoo.co.uk'
 title: Tom's Yard Screenprint
 description: '@ Higher Bussow Farm Studios'
 author:
