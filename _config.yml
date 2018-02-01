@@ -24,10 +24,6 @@ description: '@ Higher Bussow Farm Studios'
 author:
   name: Graham Pullen
   email: no2tomsyard@yahoo.co.uk
-navigation:
-  - name: Workshops
-    id: af5baa17-a63d-4635-8899-051cdd0b6cb0
-    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
