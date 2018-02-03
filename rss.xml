@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Tom's Yard now at Higher Bussow Farm Studios]]></title>
-        <description><![CDATA[Tom's Yard now at Higher Bussow Farm Studios]]></description>
+        <title><![CDATA[Tom's Yard Screenprint]]></title>
+        <description><![CDATA[Tom's Yard Screenprint]]></description>
         <link>https://thegrid.ai/tom-s-yard-screenprint/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 12:02:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2018 07:37:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tom-s-yard-screenprint/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 03 Feb 2018 07:37:11 GMT</pubDate>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/12573890_714620288675551_5586495080434196603_n.jpg?oh=c50699b69de85a9e6a2fe9e24e545df0&oe=5793BD4D">]]></description>
-            <link>https://www.facebook.com/tomsyardScreenprinting/photos/pcb.714621088675471/714620288675551/?type=3&amp;theater</link>
-            <guid isPermaLink="false">979b779c-435d-4eed-a39a-67f72127b75d</guid>
-            <pubDate>Mon, 14 Mar 2016 23:35:22 GMT</pubDate>
+            <title><![CDATA[Screenprint studio at Higher Bussow]]></title>
+            <description><![CDATA[<p>The screenprint studio at Higher Bussow Farm Studios.</p>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18944d121df4a3338d7b585834270ab3c1e7affc.jpg" title="Screenprint studio at Higher Bussow">,<p><a href="https://www.google.co.uk/maps/place/Towednack,+Saint+Ives+TR26+3BB/@50.1956323,-5.5211012,15z/data=!3m1!4b1!4m5!3m4!1s0x486ac2c7a5852fb3:0x7ba996162c1f1a40!8m2!3d50.1952622!4d-5.5101102" title="Location Map">Find Us here</a></p>]]></description>
+            <link>https://thegrid.ai/tom-s-yard-screenprint/screenprint-studio-at-higher-bussow/index.html</link>
+            <guid isPermaLink="false">7ad30e79-9d35-4430-b7aa-b53609fc3d3c</guid>
+            <pubDate>Tue, 23 Jan 2018 18:04:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xfl1/v/t1.0-9/12540673_714620658675514_4479996010004647430_n.jpg?oh=a95b244bdeb202d83aea21f4c183b11d&oe=5796A837">]]></description>
-            <link>https://www.facebook.com/tomsyardScreenprinting/photos/pcb.714621088675471/714620658675514/?type=3&amp;theater</link>
-            <guid isPermaLink="false">7ad30e79-9d35-4430-b7aa-b53609fc3d3c</guid>
-            <pubDate>Thu, 17 Mar 2016 21:29:56 GMT</pubDate>
+            <title><![CDATA[Workshops]]></title>
+            <description><![CDATA[<h1>Workshops</h1>,<p>Hand painted stencils</p>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83a323ec572c04cfb003dd6e3a1809d7afa0295b.jpg"><h1>Hand painted stencil</h1></article>,<p>Short custom workshops.</p>]]></description>
+            <link>https://thegrid.ai/tom-s-yard-screenprint/workshops/index.html</link>
+            <guid isPermaLink="false">560b8fea-9c91-49c1-a496-c8f10ca8c0ae</guid>
+            <pubDate>Thu, 01 Feb 2018 12:05:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
