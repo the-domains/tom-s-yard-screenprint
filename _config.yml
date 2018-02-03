@@ -1,9 +1,5 @@
-name: Tom's Yard Screenprint
-layout_spectrum: 0.25164413349334114
-typography_spectrum: 0.8885133535229591
-cta: {}
-analytics: {}
-opengraph: {}
+layout_spectrum: 0.14963147419809117
+typography_spectrum: 0.8810042155096953
 color:
   brandColors:
     - '#B4AF91'
@@ -11,10 +7,16 @@ color:
     - '#40411E'
     - '#32331D'
     - '#C03000'
-  brandStrength: 0.30515188474097465
-  lightness: 0.8134469360794577
-  saturation: 0.9977119487784987
-  rhythmicContrast: 0.8466618341952562
+  brandStrength: 0.7515543151582306
+  lightness: 0.59861774975812
+  saturation: 0.3200243937287775
+  rhythmicContrast: 0.3712274531412427
+coverPrefs:
+  filter: false
+name: Tom's Yard Screenprint
+cta: {}
+analytics: {}
+opengraph: {}
 purpose:
   - type: contact
     label: no2tomsyard@yahoo.co.uk
