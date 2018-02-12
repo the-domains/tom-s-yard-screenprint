@@ -23,6 +23,9 @@ navigation:
   - name: Octopus
     url: 'https://thegrid.ai/store-95505/556cc668-1ecf-4a49-82bb-ede273b922f4'
     type: external
+  - name: Series
+    url: 'https://thegrid.ai/series/?cache=no'
+    type: external
 title: Tom's Yard Screenprint
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
