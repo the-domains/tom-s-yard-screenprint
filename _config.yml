@@ -1,4 +1,9 @@
+name: Tom's Yard Screenprint
+layout_spectrum: 0.14963147419809117
 typography_spectrum: 0.8810042155096953
+cta: {}
+analytics: {}
+opengraph: {}
 color:
   brandColors:
     - '#B4AF91'
@@ -10,23 +15,19 @@ color:
   lightness: 0.59861774975812
   saturation: 0.3200243937287775
   rhythmicContrast: 0.3712274531412427
-github: true
-opengraph: {}
-layout_spectrum: 0.14963147419809117
-analytics: {}
+purpose:
+  - type: contact
+    label: no2tomsyard@yahoo.co.uk
+    url: 'mailto:no2tomsyard@yahoo.co.uk'
+title: Tom's Yard Screenprint
+description: '@ Higher Bussow Farm Studios'
 author:
   name: Graham Pullen
   email: no2tomsyard@yahoo.co.uk
-name: Tom's Yard Screenprint
-cta: {}
 navigation:
-  - name: Octopus
-    url: 'https://thegrid.ai/store-95505/556cc668-1ecf-4a49-82bb-ede273b922f4'
-    type: external
   - name: Series
     url: 'https://thegrid.ai/series/?cache=no'
     type: external
-title: Tom's Yard Screenprint
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -49,10 +50,4 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-coverPrefs:
-  filter: false
-description: '@ Higher Bussow Farm Studios'
-purpose:
-  - type: contact
-    label: no2tomsyard@yahoo.co.uk
-    url: 'mailto:no2tomsyard@yahoo.co.uk'
+github: true
